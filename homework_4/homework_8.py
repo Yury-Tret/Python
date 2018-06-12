@@ -8,3 +8,4 @@ for j in range(len(array)-1):
             array[i + 1] = buffer
 
 print(array)
+print('test')
